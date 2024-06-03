@@ -34,13 +34,13 @@ Here is the basic rundown of what's included:
 NOT INCLUDED:
 Moveable Feasts, as determined by the date of Easter:
 
-1 day after Easter:          Monday within the Octave of the Resurrection
-2 days after Easter         Tuesday within the Octave of the Resurrection
-40 days after Easter       Ascension Thursday
-1 day after Pentecost:   Monday within the Octave of Pentecost
-2 days after Pentecost: Tuesday within the Octave of Pentecost
-7 days after Pentecost:                   Most Holy Trinity
-Thursday after Pentecost Octave:        Most Holy Body of Christ
+- 1 day after Easter:          Monday within the Octave of the Resurrection
+- 2 days after Easter         Tuesday within the Octave of the Resurrection
+- 40 days after Easter       Ascension Thursday
+- 1 day after Pentecost:   Monday within the Octave of Pentecost
+- 2 days after Pentecost: Tuesday within the Octave of Pentecost
+- 7 days after Pentecost:                   Most Holy Trinity
+- Thursday after Pentecost Octave:        Most Holy Body of Christ
 
 This is all based off the information on this link:
 https://fatima.org/news-views/catholic-apologetics-42/
